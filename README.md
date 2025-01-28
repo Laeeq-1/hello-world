@@ -1,2 +1,3 @@
 # hello-world
-my first repository in github
+My first repository in github,
+This will be my personalized website 
